@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "CEMUDnoN6xPK1w4HaV9aP8G0+q7ZDlhfTWS2xvsBXSQ=",
+  "Source": "PortFolioII",
+  "BasePath": "_content/PortFolioII",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PortFolioII\\wwwroot",
+      "Source": "PortFolioII",
+      "ContentRoot": "E:\\Dev\\BootCamp C# Sonda\\Asignaciones pendientes\\PortFolioII\\wwwroot\\",
+      "BasePath": "_content/PortFolioII",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Dev\\BootCamp C# Sonda\\Asignaciones pendientes\\PortFolioII\\wwwroot\\css\\style.css",
+      "SourceId": "PortFolioII",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Dev\\BootCamp C# Sonda\\Asignaciones pendientes\\PortFolioII\\wwwroot\\",
+      "BasePath": "_content/PortFolioII",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Dev\\BootCamp C# Sonda\\Asignaciones pendientes\\PortFolioII\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PortFolioII.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PortFolioII.props",
+      "PackagePath": "build\\PortFolioII.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PortFolioII.props",
+      "PackagePath": "buildMultiTargeting\\PortFolioII.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PortFolioII.props",
+      "PackagePath": "buildTransitive\\PortFolioII.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
